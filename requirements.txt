@@ -1,0 +1,10 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+pandas==2.1.1
+numpy==1.26.2
+matplotlib==3.8.1
+pillow==10.1.0
+beautifulsoup4==4.12.2
+requests==2.31.0
+scipy==1.11.2
+python-multipart==0.0.6
